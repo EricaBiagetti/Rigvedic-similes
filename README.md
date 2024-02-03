@@ -1,6 +1,6 @@
 # Rigvedic Similes: a corpus-based study of their forms and functions
 
-This repository contains the treebanked version of the Rigveda (RV) employed for the analyses presented in the book ***Rigvedic similes: a corpus-based study of their forms and functions***. The treebank presented here is part of the bigger Vedic Treebank (Hellwig et al. 2020).
+This repository contains the treebanked version of the Rigveda (RV) employed for the analyses presented in the book ***Rigvedic similes: a corpus-based study of their forms and functions***. The treebank presented here is part of the bigger [Vedic Treebank](https://github.com/OliverHellwig/sanskrit/tree/master/papers/2020lrec) (Hellwig et al. 2020).
 
 The repository also describes the annotation scheme employed for Rgvedic similes and related constructions, which is a customized version of the annotation scheme provided by [Universal Dependencies](https://universaldependencies.org) for [comparative constructions](https://universaldependencies.org/workgroups/comparatives.html), as well as all queries emplyed in Chapters 4, 6, and 8, and written with [Udapi](https://udapi.github.io), a Python framework for processing Universal Dependencies data. 
 
